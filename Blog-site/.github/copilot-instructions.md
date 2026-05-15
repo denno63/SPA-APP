@@ -1,5 +1,0 @@
-- Scaffolded Vite React project in current workspace.
-- Created React component files: `Header.jsx`, `About.jsx`, `ArticleList.jsx`, `Article.jsx`.
-- Added `blog.js` data file and connected props through `App.jsx`.
-- Added Jest config and sample test in `src/App.test.jsx`.
-- Use `npm test` to run the unit test and `npm run dev` to start the app.
